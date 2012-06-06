@@ -12,3 +12,5 @@ da
 s
 day
 sd
+
+tohle jsem sem připsal
